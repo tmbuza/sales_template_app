@@ -1,1 +1,2 @@
-# sales_template_app
+# Sales App for Reference
+A modified version of an app described [Here](https://www.youtube.com/watch?v=Sb0A9i6d320

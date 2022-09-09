@@ -22,5 +22,6 @@ button[type=submit]:hover{
   background-color: #45ao49;
 }
 
-/* Hide streamlit banding
-#MainMenu, header, footer {visibility: hidden;} */
+#MainMenu, header, footer {
+  visibility: hidden;
+} 

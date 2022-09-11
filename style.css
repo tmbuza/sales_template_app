@@ -22,6 +22,11 @@ button[type=submit]:hover{
   background-color: #45ao49;
 }
 
-#MainMenu, header, footer {
+/*#MainMenu, header, footer {
   visibility: hidden;
-} 
+}*/
+
+ol li{
+  color: #222222;
+  font-weight: 500;
+}
